@@ -2,7 +2,7 @@
 
 A simple fullscreen HTML launcher that loads the Escape Road game in one click.
 
-[Demo](https://hackz00.github.io/EscapeRoad/) | [Unbl0cked Link](https://escape-road.global.ssl.fastly.net/)
+[Demo](https://hackz00.github.io/EscapeRoad/) | [Unblocked Link](https://escape-road.global.ssl.fastly.net/)
 
 ## Features
 
