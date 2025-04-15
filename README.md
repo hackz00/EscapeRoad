@@ -2,6 +2,8 @@
 
 A simple fullscreen HTML launcher that loads the Escape Road game in one click.
 
+[Demo](https://hackz00.github.io/EscapeRoad/)
+
 ## Features
 
 - Downloadable to launch from PC
